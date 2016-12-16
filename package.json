@@ -1,0 +1,19 @@
+{
+  "name": "backexample",
+  "version": "1.0.1",
+  "description": "back example",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "ananthswaroop",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "My back example"
+  },
+  "devDependencies": {}
+}
