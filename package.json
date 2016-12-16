@@ -1,6 +1,6 @@
 {
   "name": "backexample",
-  "version": "4.0.2",
+  "version": "5.0.0",
   "description": "back example",
   "main": "index.js",
   "scripts": {
